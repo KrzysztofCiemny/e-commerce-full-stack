@@ -1,6 +1,9 @@
 {
-  "semi": false,
+  "semi": true,
   "singleQuote": true,
+  "tabWidth": 2,
   "trailingComma": "es5",
-  "endOfLine": "lf"
+  "endOfLine": "lf",
+  "printWidth": 100,
+  "bracketSpacing": true
 }
